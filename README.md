@@ -1,2 +1,2 @@
 # gitops_training
-for training purposes
+For training purposes
